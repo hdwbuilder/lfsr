@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/vivek/lfsr/lfsr.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/vivek/lfsr/lfsr.srcs/sim_1/new/lfsr_tb.v,1635518585,verilog,,,,lfsr_tb,,,,,,,,
+C:/Users/vivek/lfsr/lfsr.srcs/sources_1/new/get_next_state.v,1635518772,verilog,,C:/Users/vivek/lfsr/lfsr.srcs/sources_1/new/get_output.v,,get_next_state,,,,,,,,
+C:/Users/vivek/lfsr/lfsr.srcs/sources_1/new/get_output.v,1635459397,verilog,,C:/Users/vivek/lfsr/lfsr.srcs/sources_1/new/lfsr.v,,get_output,,,,,,,,
+C:/Users/vivek/lfsr/lfsr.srcs/sources_1/new/lfsr.v,1635518613,verilog,,C:/Users/vivek/lfsr/lfsr.srcs/sim_1/new/lfsr_tb.v,,lfsr,,,,,,,,

@@ -1,0 +1,8 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Loading was accurate:Compared values obtained after 1 shift in dataout_tb
+After loading a word, successful shit was performed
+Correct bytes were obtained when get_random was set for less than 4 cycles
+Test Case:Get_random active more than 4 cycles and no shifts occurred:Successful
+All test are successful!!
+$finish called at time : 220 ns : File "C:/Users/vivek/lfsr/lfsr.srcs/sim_1/new/lfsr_tb.v" Line 137

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lfsr.srcs/sources_1/new/get_next_state.v" \
+"../../../../lfsr.srcs/sources_1/new/get_output.v" \
+"../../../../lfsr.srcs/sources_1/new/lfsr.v" \
+"../../../../lfsr.srcs/sim_1/new/lfsr_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
